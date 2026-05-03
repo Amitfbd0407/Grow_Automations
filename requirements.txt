@@ -1,0 +1,6 @@
+requests
+python-dotenv
+filelock
+psycopg2-binary
+mysql-connector-python
+playwright
