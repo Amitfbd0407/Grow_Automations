@@ -18,7 +18,7 @@ DB_SETTINGS = {
 }
 
 MAKE_WEBHOOK_URL = Url.glassix_email
-TARGET_EMAIL = "amitb@grow.business"
+TARGET_EMAIL = "test@grow.business"
 
 
 def send_to_make_webhook(subject, automation_name, status, step="N/A", reason="", details=""):
